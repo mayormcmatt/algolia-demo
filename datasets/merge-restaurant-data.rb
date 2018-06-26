@@ -30,8 +30,6 @@ end
 
 # Cleanup merged output
 make_merged_json = merge.to_json
-puts make_merged_json
-# parse_merged = JSON.parse(make_merged_json)
 
 # Write merged JSON to file
 merged_data.puts make_merged_json

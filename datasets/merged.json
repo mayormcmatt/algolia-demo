@@ -1,4 +1,4 @@
-var restaurant_data = [{
+[{
 	"objectID": 101422,
 	"name": "Town",
 	"address": "348 Main Street",
@@ -116554,8 +116554,7 @@ var restaurant_data = [{
 	"reviews_count": 1292,
 	"neighborhood": "Laguna Beach",
 	"phone_number": "(844) 864-5758",
-	"pri
-e_range": "$31 to $50",
+	"price_range": "$31 to $50",
 	"dining_style": "Casual Elegant"
 }, {
 	"objectID": 2704,
@@ -129896,49 +129895,6 @@ e_range": "$31 to $50",
 	"price_range": "$30 and under",
 	"dining_style": "Casual Elegant"
 }, {
-	"objectID": 148597,
-	"name": "Dylan's Candy Bar",
-	"address": "1011 3rd Avenue",
-	"area": "New York / Tri-State Area",
-	"city": "New York",
-	"country": "US",
-	"image_url": "https://www.opentable.com/img/restimages/148597.jpg",
-	"mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=148597",
-	"payment_options": ["AMEX", "Discover", "MasterCard", "Visa"],
-	"phone": "6466198656x",
-	"postal_code": "10065",
-	"price": 2,
-	"reserve_url": "http://www.opentable.com/single.aspx?rid=148597",
-	"state": "NY",
-	"_geoloc": {
-		"lat": 40.762213,
-		"lng": -73.96577
-	},
-	"food_type": "American",
-	"stars_count": 3.8,
-	"reviews_count": 123,
-	"neighborhood": "Upper East Side",
-	"phone_number": "(212) 620-2700 e",
-	"price_range": "$30 and under",
-	"dining_style": "Casual Dining",
-	"payment_options": ["AMEX", "Discover", "MasterCard", "Visa"],
-	"phone": "5036362667",
-	"postal_code": "97034",
-	"price": 2,
-	"reserve_url": "http://www.opentable.com/single.aspx?rid=108661",
-	"state": "OR",
-	"_geoloc": {
-		"lat": 45.420338,
-		"lng": -122.665232
-	},
-	"food_type": "Northwest",
-	"stars_count": 4.4,
-	"reviews_count": 115,
-	"neighborhood": "Lake Oswego",
-	"phone_number": "(503) 636-2667",
-	"price_range": "$30 and under",
-	"dining_style": "Casual Elegant"
-}, {
 	"objectID": 73291,
 	"name": "Oyster Club",
 	"address": "13 Water Street",
@@ -135109,7 +135065,7 @@ e_range": "$31 to $50",
 	"stars_count": 3.8,
 	"reviews_count": 123,
 	"neighborhood": "Upper East Side",
-	"phone_number": "(212) 620-2700 e",
+	"phone_number": "(212) 620-2700",
 	"price_range": "$30 and under",
 	"dining_style": "Casual Dining"
 }, {
